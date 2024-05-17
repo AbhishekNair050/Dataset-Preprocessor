@@ -18,7 +18,7 @@ DatasetProcessor is a Python library for preprocessing datasets for machine lear
 You can install DatasetProcessor using pip:
 
 ```bash
-pip install my_preprocessor
+pip install DatasetProcessor
 ```
 
 ## Usage
@@ -194,4 +194,5 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Abhishek Nair - [abhishek,naiir@gmail.com](mailto:abhishek,naiir@gmail.com)
+Priyanshi Furiya - [furiyapriyanshi@gmail.com](furiyapriyanshi@gmail.com)
