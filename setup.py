@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="DatasetProcessor",
+    name="DatasetPreprocessor",
     version="0.1.0",
     description="A data preprocessing library for machine learning.",
     author="Abhishek Nair, Priyanshi Furiya",
