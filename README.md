@@ -1,6 +1,6 @@
-# DatasetProcessor
+# DatasetPreprocessor
 
-DatasetProcessor is a Python library for preprocessing datasets for machine learning. It provides functionalities to handle missing values, encode categorical features, normalize numerical features, select important features, and more.
+DatasetPreprocessor is a Python library for preprocessing datasets for machine learning. It provides functionalities to handle missing values, encode categorical features, normalize numerical features, select important features, and more.
 
 ## Features
 
@@ -15,21 +15,21 @@ DatasetProcessor is a Python library for preprocessing datasets for machine lear
 
 ## Installation
 
-You can install DatasetProcessor using pip:
+You can install DatasetPreprocessor using pip:
 
 ```bash
-pip install DatasetProcessor
+pip install DatasetPreprocessor
 ```
 
 ## Usage
 
-Here is an example of how to use the DatasetProcessor library:
+Here is an example of how to use the DatasetPreprocessor library:
 
 ```python
-from my_preprocessor.preprocessor import DatasetProcessor
+from DataPreprocessor import DatasetPreprocessor
 
 # Initialize the preprocessor
-preprocessor = DatasetProcessor()
+preprocessor = DatasetPreprocessor()
 
 # Read data
 data = preprocessor.read_data("data.csv")
